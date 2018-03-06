@@ -246,7 +246,7 @@ public class DialpadFragment extends Fragment {
         }
     }
 
-    interface Callback {
+    public interface Callback {
         void ok(String formatted, String raw);
     }
 }
