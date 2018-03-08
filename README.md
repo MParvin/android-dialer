@@ -22,7 +22,7 @@ compile 'im.dlg:android-dialer:1.2.4'
 ### 1) Within fragment
 
 Just add the `DialpadFragment` into your activity and make sure the activity implements
-`DialpadActivity.Callback`:
+`DialpadFragment.Callback`:
 
 ```java
 interface Callback {
