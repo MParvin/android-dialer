@@ -15,7 +15,7 @@ import com.google.i18n.phonenumbers.AsYouTypeFormatter;
 import com.google.i18n.phonenumbers.PhoneNumberUtil;
 
 public class DialpadFragment extends Fragment {
-    public final static String EXTRA_REGION_CODE = "REGION_CODE";
+    public final static String EXTRA_REGION_CODE = "EXTRA_REGION_CODE";
     public final static String EXTRA_FORMAT_AS_YOU_TYPE = "EXTRA_FORMAT_AS_YOU_TYPE";
     public final static String EXTRA_ENABLE_STAR = "EXTRA_ENABLE_STAR";
     public final static String EXTRA_ENABLE_POUND = "EXTRA_ENABLE_POUND";
